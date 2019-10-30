@@ -1,11 +1,8 @@
 {
-  "name": "console.jean",
-  "version": "1.0.1",
+  "name": "console-jean",
+  "version": "1.0.3",
   "description": "Simple console facilitator",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "consoleJean.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jeanCarlosDev/console.jean.git"
@@ -16,7 +13,7 @@
     "simple",
     "easy"
   ],
-  "author": "Jean Carlos",
+  "author": "Jean Carlos Lopes Júnior",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jeanCarlosDev/console.jean/issues"
